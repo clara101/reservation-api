@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2021-06-07
+  end_date: 2021-06-07
+  nights: MyString
+  guests: MyString
+  adults: MyString
+  children: MyString
+  infants: MyString
+  status: MyString
+  guest: one
+  currency: MyString
+  payout_price: 9.99
+  security_price: 9.99
+  total_price: 9.99
+
+two:
+  start_date: 2021-06-07
+  end_date: 2021-06-07
+  nights: MyString
+  guests: MyString
+  adults: MyString
+  children: MyString
+  infants: MyString
+  status: MyString
+  guest: two
+  currency: MyString
+  payout_price: 9.99
+  security_price: 9.99
+  total_price: 9.99
